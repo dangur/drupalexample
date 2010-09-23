@@ -26,3 +26,5 @@ Recommended modules for use with Views:
 
 Experimental modules:
   Views OR
+
+This is so cool
